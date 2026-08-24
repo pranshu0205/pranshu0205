@@ -14,6 +14,7 @@ Final-year BS Data Science & Applications student @ IIT Madras | ML/DL · NLP & 
 [![Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,react,ts,js,flask,postgres,docker,git,github,gcp,latex,)](https://skillicons.dev)
 
 <br>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranshu0205/pranshu0205/output/github-contribution-grid-snake-dark.svg" /> <img alt="snake" src="https://raw.githubusercontent.com/pranshu0205/pranshu0205/output/github-contribution-grid-snake.svg" /> </picture>
 
 ### What I have worked on
 
